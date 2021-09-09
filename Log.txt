@@ -1,0 +1,24 @@
+Wednesday 5pm -7pm
+- brainstormed how things that makes a blog like username, password, email
+-tried to learn flask and other function that flask have
+
+Friday 3pm-4pm
+-start looking up what i will need to create a blog 
+
+Sunday 1pm-2pm
+-started coding
+-created the layout, routes and some HTML, but the code did not run
+
+Monday 1:20pm - 2:40pm
+-fix the error that i had in the layout, accounts and routes
+-still can run the my sit and had to look up the error that i was getting 
+
+Wensday 1:30pm - 4pm
+-completed the code posted the students goals statements 
+
+Sunday 3:12pm-4pm
+-create a github account 
+
+Monday 5pm-6pm
+-posted the blog on github and forget to post the readme.
+
